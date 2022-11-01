@@ -1,17 +1,4 @@
 
-# Hardhat-Tailwind-React Ethers Starter Kit
-Speedily develope your decentralized application with this starter kit for free!
-
-Follow the steps below to download, install, and run this project.
-
-## Dependencies
-Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
-- NPM: https://nodejs.org
-- Hardhat: https://hardhat.org/
-- EthersJs: https://ethers.org/
-- Tailwind CSS: https://tailwindcss.com/
-
-
 ## Step 1. Clone the project
 `git clone https://github.com/ <PROJECT NAME>`
 
